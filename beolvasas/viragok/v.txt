@@ -1,0 +1,5 @@
+rózsa:50
+szegfű:12
+liliom:600
+nárcisz:18
+ibolya:10
